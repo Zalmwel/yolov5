@@ -1,0 +1,7 @@
+path: ../yolov5/KNSA-shooting-target.v8
+train: train/images/
+val: ../KNSA-shooting-target.v8/valid/images/
+test: ../test/images/
+
+nc: 1
+names: ['bulletholes']
